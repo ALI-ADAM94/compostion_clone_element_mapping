@@ -1,0 +1,40 @@
+
+.welcome{
+    text-align: center;
+    align-items: center;
+    color: green;
+    border: 1px solid gray;
+    width: 100%;
+}
+.list {
+  margin: 100px;
+  width: 600px;
+
+}
+
+.shape1 {
+    color:blueviolet;
+  text-align: left;
+  justify-content: left;
+  width: 30%;
+  background-color: #93b7be;
+  margin: 20px;
+  padding:20px;
+  border: 3px solid blueviolet;
+  border-radius: 60px;
+}
+
+.shape2 {
+  color:blueviolet;
+  width: 50%;
+  height: 100px;
+  background-color: #93b7be;
+  border: 3px solid blueviolet;
+  border-radius: 10px;
+  margin: 20px;
+  display: flex;
+}
+.info{
+  list-style-type: none;
+  text-decoration: none;
+}
